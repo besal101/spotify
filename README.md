@@ -1,12 +1,7 @@
 # Spotify Clone - A perfect WebPlayer
 
-The project was created using React
+The project was bootstrapped using React
 
 ## Preview Link
 
-- [Spotify Web Player Clone](https://spotify-clone-oguz3.web.app/)
-
-## Tech/Framework Used
-
-- React
-- CSS
+- [Spotify Web Player Clone](https://spotify-five-omega.vercel.app/)
